@@ -67,13 +67,6 @@ Explanation:
 5123 - 4567 - 8912 - 3456 : Invalid, because space '  ' and - are used 
                             as separators.
                             
-
-
-
-5252248277877418 - >Valid
-
-
-
 @author: Luísa Maria
 """
 #returns True if starts with a 4,5 or 6
