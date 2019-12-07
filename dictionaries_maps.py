@@ -107,18 +107,5 @@ def dictionaries_maps():
         else:
             print("Not found")
             
-        number_queries = number_queries - 1
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+        number_queries = number_queries - 1 
+   
