@@ -65,6 +65,7 @@ Edward is not one of the keys in our dictionary, so we print Not found.
 
 Query 2: harry
 Harry is one of the keys in our dictionary, so we print harry=12299933.
+
 @author: Luísa Maria
 """
 def count(astring):
