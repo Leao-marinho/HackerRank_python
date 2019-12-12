@@ -106,7 +106,6 @@ def dictionaries_maps():
         if(search(query, phoneNumber) == True):
             print(query + "=" + phoneNumber[query])
         else:
-            print("Not found")
-            
+            print("Not found")   
         number_queries = number_queries - 1 
    
